@@ -1,2 +1,1 @@
-# grasshopperftw.github.io
-Uploading Webside test
+The website encourages you to subscribe to the startup newsletter
